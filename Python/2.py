@@ -1,6 +1,11 @@
 def reverse_string(s):
     
-    reverse_string = s [::-1]
-    print(reverse_string)
+    string = ""
+    index = len(s)
+    while index: 
+        index -= 1
+        string += s[index]
+    return string
 
-reverse_string("123456789")
+x = reverse_string("123456789")
+print(x)
