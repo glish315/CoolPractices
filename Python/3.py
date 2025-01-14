@@ -1,8 +1,8 @@
 def count_even_numbers(start, end):
 
     list = []
-
-    while start < end:
+    good_end = end + 1
+    while start < good_end:
         if start % 2 == 0:
             list.append(start)
         start += 1
@@ -13,4 +13,4 @@ def count_even_numbers(start, end):
 
 
     
-count_even_numbers(27, 100)
+count_even_numbers(1, 10)
