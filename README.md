@@ -1,4 +1,5 @@
-# Day 01 ---
+# Day 01 
+---
 ## Programming Tasks
 
 1. **Very simple: Print greeting**: Write a function `greet(name)` that returns the string: "Hello, [name]!". [1.py](https://github.com/glish315/internships/tree/main/day01/Python/1.py)
