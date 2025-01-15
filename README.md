@@ -33,4 +33,25 @@ For the tasks related to Git, I want to know what commands you use; if something
   Perform a merge and resolve the conflict manually. [conflict.txt](https://github.com/glish315/internships/blob/main/day01/conflict.txt)
 
 
+# Day 2
+---
+## Simple Web Scraper
+
+**Description:** Create a script that retrieves data from a selected website (e.g., article titles from a blog). The program should:
+- Use the `requests` library to fetch data.
+- Parse HTML using `BeautifulSoup` and extract headers (e.g., `<h2>`).
+- Save the retrieved data to a text file.
+
+**Tip:** Ensure proper handling of HTTP errors and appropriate HTML parsing.
+
+---
+## Mini Project: Logic Game
+
+**Description:** Create a "Hangman" game in Python:
+- The game randomly selects a word from a text file (e.g., `words.txt`).
+- The user has 6 attempts to guess the entire word by providing single letters.
+- The game displays progress (e.g., `_ _ a _ _`), the number of remaining attempts, and the letters used.
+- After winning/losing, the game should offer the option to restart.
+
+
 
