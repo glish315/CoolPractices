@@ -32,8 +32,10 @@ For the tasks related to Git, I want to know what commands you use; if something
   In the file `conflict.txt`, add different content in the main and feature branches.  
   Perform a merge and resolve the conflict manually. [conflict.txt](https://github.com/glish315/internships/blob/main/day01/conflict.txt)
 
+---
 
-# Day 2
+
+# Day 02
 ---
 ## Simple Web Scraper
 
