@@ -28,7 +28,12 @@ def game():
         print(f"Current word: {current_word}")
         if current_word == content:
             print("You win")
-            exit()
+            restart = str(input("Would you like to play again?: "))
+            restart.lower()
+            if restart == "yes":
+                game()
+            elif restart == "no":
+                exit()
         guess = str(input("Enter letter: "))
 
         found = False
