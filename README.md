@@ -2,16 +2,16 @@
 
 1. -**Very simple: Print greeting**: Write a function `greet(name)` that returns the string: "Hello, [name]!". [1.py](https://github.com/glish315/internships/tree/main/day01/Python/1.py)
 
-2. **Simple: Reversing text**: Write a function `reverse_string(s)` that reverses the given string.  [2.py](https://github.com/glish315/internships/tree/main/day01/Python/2.py))
+2. **Simple: Reversing text**: Write a function `reverse_string(s)` that reverses the given string.  [2.py](https://github.com/glish315/internships/tree/main/day01/Python/2.py)
    **INPUT:** '123456'  **OUTPUT:** '654321' 
 
-3. **Easy: Even numbers in a range**: Write a function `count_even_numbers(start, end)` that returns the number of even numbers in the given range. [3.py](https://github.com/glish315/internships/tree/main/day01/Python/3.py))
+4. **Easy: Even numbers in a range**: Write a function `count_even_numbers(start, end)` that returns the number of even numbers in the given range. [3.py](https://github.com/glish315/internships/tree/main/day01/Python/3.py))
 
-4. **Medium: Bracket validation**: Write a function `is_valid_brackets(s)` that checks the validity of a string of brackets.   [4.py](https://github.com/glish315/internships/tree/main/day01/Python/4.py)
+5. **Medium: Bracket validation**: Write a function `is_valid_brackets(s)` that checks the validity of a string of brackets.   [4.py](https://github.com/glish315/internships/tree/main/day01/Python/4.py)
   `is_valid_brackets("()[]{}")`  
   `is_valid_brackets("([]}")`
 
-5. **Hard: Sorting algorithm (QuickSort)**: Write a function `quick_sort(array)` that implements the QuickSort algorithm. [5.py](https://github.com/glish315/internships/tree/main/day01/Python/5.py)
+6. **Hard: Sorting algorithm (QuickSort)**: Write a function `quick_sort(array)` that implements the QuickSort algorithm. [5.py](https://github.com/glish315/internships/tree/main/day01/Python/5.py)
 
 ---
 
