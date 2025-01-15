@@ -3,7 +3,8 @@
 1. -**Very simple: Print greeting**: Write a function `greet(name)` that returns the string: "Hello, [name]!". [1.py](https://github.com/glish315/internships/tree/main/day01/Python/1.py)
 
 2. **Simple: Reversing text**: Write a function `reverse_string(s)` that reverses the given string.  [2.py](https://github.com/glish315/internships/tree/main/day01/Python/2.py)
-   **INPUT:** '123456'  **OUTPUT:** '654321' 
+
+    **INPUT:** '123456'  **OUTPUT:** '654321' 
 
 4. **Easy: Even numbers in a range**: Write a function `count_even_numbers(start, end)` that returns the number of even numbers in the given range. [3.py](https://github.com/glish315/internships/tree/main/day01/Python/3.py))
 
