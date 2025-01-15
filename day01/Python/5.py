@@ -1,13 +1,13 @@
-def quick_sort(output):
-    if len(output) <= 1:
-        return output
+def quick_sort(array):
+    if len(array) <= 1:
+        return array
 
-    pivot = output[len(output) // 2]
+    pivot = array[len(array) // 2]
     left = []
     right = []
     equal = []
 
-    for number in output:
+    for number in array:
         if pivot > number:
             left.append(number)
         elif pivot < number:
@@ -18,6 +18,9 @@ def quick_sort(output):
     return quick_sort(left) + equal + quick_sort(right)
 
 
+
+
 array = [2, 6, 3, 4, 1, 5, 7]
-sort = quick_sort(array)
-print(sort)
+sortted = quick_sort(array)
+print(sortted)
+
