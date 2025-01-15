@@ -1,5 +1,7 @@
 # Day 01
 
+---
+
 ## Programming Tasks
 
 1. **Very simple: Print greeting**: Write a function `greet(name)` that returns the string: "Hello, [name]!". [1.py](https://github.com/glish315/internships/tree/main/day01/Python/1.py)
@@ -33,3 +35,6 @@ For the tasks related to Git, I want to know what commands you use; if something
 - **Hard: Resolving a merge conflict**: Create a feature branch.  
   In the file `conflict.txt`, add different content in the main and feature branches.  
   Perform a merge and resolve the conflict manually. [conflict.txt](https://github.com/glish315/internships/blob/main/day01/conflict.txt)
+
+
+
