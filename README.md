@@ -1,5 +1,4 @@
-# Day 01
----
+# Day 01 ---
 ## Programming Tasks
 
 1. **Very simple: Print greeting**: Write a function `greet(name)` that returns the string: "Hello, [name]!". [1.py](https://github.com/glish315/internships/tree/main/day01/Python/1.py)
@@ -18,7 +17,6 @@
 
 ---
 ## Git Tasks
-
 For the tasks related to Git, I want to know what commands you use; if something can be done through the UI, that's fine, but I want to know the console commands.
 
 - **Basic: Creating a repository**: Create a local repository.  
