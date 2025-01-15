@@ -1,6 +1,8 @@
-# Programming Tasks
+#Day 01
 
-1. -**Very simple: Print greeting**: Write a function `greet(name)` that returns the string: "Hello, [name]!". [1.py](https://github.com/glish315/internships/tree/main/day01/Python/1.py)
+## Programming Tasks
+
+1. **Very simple: Print greeting**: Write a function `greet(name)` that returns the string: "Hello, [name]!". [1.py](https://github.com/glish315/internships/tree/main/day01/Python/1.py)
 
 2. **Simple: Reversing text**: Write a function `reverse_string(s)` that reverses the given string.  [2.py](https://github.com/glish315/internships/tree/main/day01/Python/2.py)
 
@@ -16,7 +18,7 @@
 
 ---
 
-# Git Tasks
+## Git Tasks
 
 For the tasks related to Git, I want to know what commands you use; if something can be done through the UI, that's fine, but I want to know the console commands.
 
