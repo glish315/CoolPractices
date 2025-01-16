@@ -35,7 +35,7 @@ For the tasks related to Git, I want to know what commands you use; if something
 ---
 
 
-# Day 02
+# Day 02/03
 ---
 ## Simple Web Scraper
 
