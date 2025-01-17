@@ -55,5 +55,41 @@ For the tasks related to Git, I want to know what commands you use; if something
 - The game displays progress (e.g., `_ _ a _ _`), the number of remaining attempts, and the letters used.
 - After winning/losing, the game should offer the option to restart.
 
+---
+
+
+# Day 04
+---
+## Task for the Intern: Setting Up and Configuring a Linux Server
+
+### Objective of the Task
+The goal is to gain practical knowledge in managing a Linux server, configuring basic network services, and implementing DevOps tools such as web servers, Jenkins, and integration with GitHub.
+
+### Scope of the Task
+
+1. Basic Server Configuration
+    - Update the operating system.
+    - Create a new user with administrative privileges.
+    - Configure a basic firewall.
+2. Domain Configuration
+    - Connect the domain to the server by setting the appropriate DNS records.
+    - Configure an SSL certificate for the domain using Let's Encrypt.
+3. Installation and Configuration of the Web Server
+    - Install and configure Apache or Nginx as the web server.
+    - Configure virtual hosts for the selected domain. (The domain will be provided to you.)
+4. Installation and Configuration of Jenkins
+    - Install Jenkins on the server.
+    - Configure basic Jenkins settings, including access via a web browser.
+    - Open the appropriate ports in the firewall to allow access to Jenkins.
+5. Connecting Jenkins to GitHub
+    - Create an SSH key for the Jenkins user and configure it in the GitHub repository.
+    - Create a new pipeline in Jenkins that will clone the code from the selected GitHub repository.
+6. Testing
+    - Check if the website hosted on the web server is accessible via the domain.
+    - Run the pipeline in Jenkins and confirm that the code has been correctly cloned from the GitHub repository.
+
+---
+
+
 
 
