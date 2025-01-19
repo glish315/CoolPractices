@@ -58,7 +58,7 @@ For the tasks related to Git, I want to know what commands you use; if something
 ---
 
 
-# Day 04
+# Day 04/Weekend
 ---
 ## Task for the Intern: Setting Up and Configuring a Linux Server
 
