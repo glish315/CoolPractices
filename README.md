@@ -90,6 +90,10 @@ The goal is to gain practical knowledge in managing a Linux server, configuring 
 
 ---
 
+# Day 05/06/07
+---
+## Day off
+# I worked on [Lisp-language](https://github.com/glish315/Lisp-language)
 
 
 
