@@ -90,10 +90,24 @@ The goal is to gain practical knowledge in managing a Linux server, configuring 
 
 ---
 
-# Day 05/06/07
+
+# Day 05/06
 ---
 ## Day off
 # I worked on [Lisp-language](https://github.com/glish315/Lisp-language)
+
+---
+
+
+# Day 07
+## Automated Triggers for Git Actions
+1. After Push
+    - Create a Jenkins job that has a post-build action set as a trigger to activate automatically after a git push event.
+
+2. After PR
+    - Create another Jenkins job that has a post-build action set as a trigger to activate automatically after a pull request.
+
+---
 
 
 
