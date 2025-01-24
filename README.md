@@ -114,4 +114,16 @@ The goal is to gain practical knowledge in managing a Linux server, configuring 
 ---
 
 
+# Day 08/09
+## Database and domains
+
+### Scope of Task
+
+1. Set up WordPress on your main domain, and configure MySQL usnig PHPMyAdmin.
+    
+2. Set up Jenkins on a subdomain. 
+
+---
+
+
 
