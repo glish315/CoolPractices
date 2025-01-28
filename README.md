@@ -126,4 +126,12 @@ The goal is to gain practical knowledge in managing a Linux server, configuring 
 ---
 
 
+# Day 10/11
+## Fixing the server
+
+### There was a big issue with a server, so i must do everythink from 0.
+
+---
+
+
 
