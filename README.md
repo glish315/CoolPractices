@@ -101,6 +101,7 @@ The goal is to gain practical knowledge in managing a Linux server, configuring 
 
 
 # Day 07
+---
 ## Automated Triggers for Git Actions
 
 ### Scope of the Task
@@ -115,6 +116,7 @@ The goal is to gain practical knowledge in managing a Linux server, configuring 
 
 
 # Day 08/09
+---
 ## Database and domains
 
 ### Scope of Task
@@ -127,6 +129,7 @@ The goal is to gain practical knowledge in managing a Linux server, configuring 
 
 
 # Day 10/11
+---
 ## Fixing the server
 
 ### There was a big issue with a server, so i must do everythink from 0.
@@ -135,9 +138,27 @@ The goal is to gain practical knowledge in managing a Linux server, configuring 
 
 
 # Day 12
+---
 ## After fixing the server
 
 ### Configure my webiste with wordpress.
+
+---
+
+# Day 13
+---
+## Day off
+
+### Learing the C language.
+
+---
+
+
+# Day 14
+---
+## Tor
+
+### Trying to set up my website on tor (for fun).
 
 ---
 
