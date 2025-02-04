@@ -90,8 +90,8 @@ The goal is to gain practical knowledge in managing a Linux server, configuring 
 
 # Day 05/06
 ## Day off
-
-### I worked on [Lisp-language](https://github.com/glish315/Lisp-language)
+### Scope of the Task
+I worked on [Lisp-language](https://github.com/glish315/Lisp-language)
 
 ---
 
@@ -112,7 +112,6 @@ The goal is to gain practical knowledge in managing a Linux server, configuring 
 
 # Day 08/09
 ## Database and domains
-
 ### Scope of Task
 
 1. Set up WordPress on your main domain, and configure MySQL using PHPMyAdmin.
@@ -125,30 +124,51 @@ The goal is to gain practical knowledge in managing a Linux server, configuring 
 # Day 10/11
 ## Fixing the server
 
-### There was a big issue with a server, so i must do everythink from 0.
+### Scope of Task
+There was a big issue with a server, so i must do everythink from 0.
 
 ---
 
 
 # Day 12
 ## After fixing the server
-
-### Configure my webiste with wordpress.
+### Scope of Task
+Configure my webiste with wordpress.
 
 ---
 
 # Day 13
 ## Day off
-
-### Learing the C language.
+### Scope of Task
+Learing the C language.
 
 ---
 
 
 # Day 14
 ## Tor
+### Scope of Task
+Trying to set up my website on tor (for fun).
 
-### Trying to set up my website on tor (for fun).
+---
+
+
+---
+# Day 15
+# Travel
+### Scope of Task
+Travel to the company headquarters and i worked on [asm_projects](https://github.com/glish315/asm_projects)
+
+---
+
+
+---
+# Day 16
+# Manage Wordpress and Jenkins
+### Scope of Task
+- Setup Jenkins trigger to pull request.
+- Configure multibranch Pipeline.
+- Configure Jenkisfile to copy files from git repository and upload to wordpress folder on server.
 
 ---
 
