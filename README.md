@@ -152,8 +152,6 @@ Trying to set up my website on tor (for fun).
 
 ---
 
-
----
 # Day 15
 # Travel
 ### Scope of Task
@@ -162,7 +160,6 @@ Travel to the company headquarters and i worked on [asm_projects](https://github
 ---
 
 
----
 # Day 16
 # Manage Wordpress and Jenkins
 ### Scope of Task
