@@ -153,19 +153,46 @@ Trying to set up my website on tor (for fun).
 ---
 
 # Day 15
-# Travel
+## Travel
 ### Scope of Task
-Travel to the company headquarters and i worked on [asm_projects](https://github.com/glish315/asm_projects)
+Travel to the company headquarters and i worked on [asm projects](https://github.com/glish315/asm_projects)
 
 ---
 
 
 # Day 16
-# Manage Wordpress and Jenkins
+## Manage Wordpress and Jenkins
 ### Scope of Task
 - Setup Jenkins trigger to pull request.
 - Configure multibranch Pipeline.
 - Configure Jenkisfile to copy files from git repository and upload to wordpress folder on server.
+
+---
+
+
+# Day 17
+## Dockerizing WordPress and MySQL on VPS
+### Scope of Task
+Move a functioning WordPress and MySQL setup into Docker containers to simplify management, deployment, and scaling.
+
+1. **Install Docker and Docker Compose**
+   - Ensure Docker and Docker Compose are installed on the server.
+   - Verify that they are functioning correctly.
+
+2. **Prepare Docker Compose Configuration File**
+   - Create a configuration file to manage two services:
+     - MySQL database where WordPress will store data.
+     - WordPress application that will be accessible via the web.
+   - Configure the connection between the database and WordPress.
+   - Define persistent storage to prevent data loss upon container restart.
+
+3. **Start Containers**
+   - Launch all services in the background.
+   - Verify that the containers are running correctly.
+
+4. **(Optional) Reverse Proxy with Nginx**
+   - Configure a proxy server to run WordPress on the standard port 80 instead of 8080.
+   - Option to add domain support.
 
 ---
 
