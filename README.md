@@ -196,3 +196,10 @@ Move a functioning WordPress and MySQL setup into Docker containers to simplify 
 
 ---
 
+
+# Day 18
+## Daily DevOps life
+### Scope of Task
+Participating in daily DevOps life, meeting with the team and having lunch.
+
+---
